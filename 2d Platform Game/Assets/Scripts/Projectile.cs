@@ -51,6 +51,6 @@ public class Projectile : MonoBehaviour
     //Deactivates fireball after exploding
     private void Deactivate()
     {
-
+        //gameObject.SetActive(false);
     }
 }

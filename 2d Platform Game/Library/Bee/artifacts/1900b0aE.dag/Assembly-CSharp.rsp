@@ -422,6 +422,8 @@
 -analyzer:"C:/Users/kamil/Desktop/Unity download/6000.0.31f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Users/kamil/Desktop/Unity download/6000.0.31f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Users/kamil/Desktop/Unity download/6000.0.31f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
+"Assets/Scripts/CameraController.cs"
+"Assets/Scripts/Door.cs"
 "Assets/Scripts/PlayerAttack.cs"
 "Assets/Scripts/PlayerMovement.cs"
 "Assets/Scripts/Projectile.cs"
