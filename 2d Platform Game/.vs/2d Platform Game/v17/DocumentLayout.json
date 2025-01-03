@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\platform\u00F3wka w unity\\2d platform game\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\platform\u00F3wka w unity\\2d platform game\\assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\health.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\platform\u00F3wka w unity\\2d platform game\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|c:\\users\\kamil\\desktop\\projekty\\platform\u00F3wka w unity\\2d platform game\\assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2722719D-2963-F0EF-0AB7-C774D6E4432C}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\health\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Door.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Door.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Door.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Health\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:23:37.311Z",
+              "WhenOpened": "2025-01-03T13:05:47.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CameraController.cs",
-              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\CameraController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
-              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\CameraController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAABpAAAAAAAAAA==",
+              "Title": "Health.cs",
+              "DocumentMoniker": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Health\\Health.cs",
+              "ToolTip": "C:\\Users\\kamil\\Desktop\\Projekty\\Platform\u00F3wka w Unity\\2d Platform Game\\Assets\\Scripts\\Health\\Health.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Health\\Health.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:06:38.333Z",
+              "WhenOpened": "2025-01-03T11:12:54.191Z",
               "EditorCaption": ""
             }
           ]
